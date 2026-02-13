@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-native-camera": "^4.2.1",
+    "react-native-image-picker": "^8.2.1"
+  }
+}
